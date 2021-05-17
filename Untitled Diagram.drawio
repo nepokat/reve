@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T05:57:49.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="0FUGeh64YdtjS7BRyGpZ" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T06:02:28.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="nyhObXORfSfaZj1Un73f" version="14.6.13" type="github">
   <diagram id="13-oEu8dOx8ymZho0zQ9" name="Page-2">
     <mxGraphModel dx="2899" dy="1032" grid="1" gridSize="50" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="hytQAspsmoFLMjGgo2YP-0" />
         <mxCell id="hytQAspsmoFLMjGgo2YP-1" parent="hytQAspsmoFLMjGgo2YP-0" />
-        <mxCell id="jcJWP4r5AkSBRpXdXZx8-0" value="&lt;h4&gt;&lt;font color=&quot;#ffffff&quot;&gt;askdölakds&lt;/font&gt;&lt;/h4&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#10739e;fillColor=#007FFF;sketch=0;" vertex="1" parent="hytQAspsmoFLMjGgo2YP-1">
+        <mxCell id="jcJWP4r5AkSBRpXdXZx8-0" value="&lt;h4 style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;askdölakds&lt;/font&gt;&lt;/h4&gt;" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;fillColor=#00ADEF;arcSize=15;strokeColor=#0082E6;strokeWidth=3;glass=0;shadow=0;fontSize=14;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;align=center;verticalAlign=middle;" parent="hytQAspsmoFLMjGgo2YP-1" vertex="1">
           <mxGeometry x="-1050" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
